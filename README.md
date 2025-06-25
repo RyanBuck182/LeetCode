@@ -1,3 +1,3 @@
-# Leet Code Solutions
+# Leet Code
 
 My leet code solutions!
